@@ -1,0 +1,19 @@
+{
+  "name": "js-todos-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanford-fox-2016/js-todos-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanford-fox-2016/js-todos-2/issues"
+  },
+  "homepage": "https://github.com/blanford-fox-2016/js-todos-2#readme"
+}
